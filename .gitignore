@@ -1,0 +1,12 @@
+
+# YOLO 训练输出
+runs/
+log/
+
+# 模型权重
+*.pt
+*.pth
+
+# 缓存
+__pycache__/
+*.pyc
